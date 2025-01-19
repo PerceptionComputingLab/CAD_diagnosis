@@ -2,7 +2,7 @@
 
 The implementation of our works:
 
-A Trusted Lesion-assessment Network for Interpretable Diagnosis of Coronary Artery Disease in Coronary CT Angiography
+"A Trusted Lesion-assessment Network for Interpretable Diagnosis of Coronary Artery Disease in Coronary CT Angiography"
 
 ["Spatio-Temporal Contrast Network for Data-Efficient Learning of Coronary Artery Disease in Coronary CT Angiography"](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_60).
 
